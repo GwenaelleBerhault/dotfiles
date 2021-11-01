@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = gwenaelle.berhault@gmail.com
+	name = gwenaelle berhault
